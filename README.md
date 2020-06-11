@@ -1,2 +1,2 @@
 # Website Blocker
- This Website blocking project is competed using python.It will be very useful ,while working in offices(working hours). For to start ,you need to find the path of the local host script and creat a task in task scheduler.
+ This Website blocking project is competed using python.It will be very useful ,while working in offices(working hours). To start ,you need to find the path of the local host script and create a task in task scheduler. This process of blocking is helpful for different different ages person,like- parents can block the websites on gadgets .so,that children will only access relevant sites to the education.
