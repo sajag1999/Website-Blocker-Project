@@ -8,3 +8,5 @@ linkedin.com
 www.linkedin.com
 youtube.com
 www.youtube.com
+gmail.com
+www.gmail.com
