@@ -68,6 +68,8 @@ Feel free to **file a new issue** with a respective title and description on the
 Made with :&nbsp;  by [Sajag Chauhan](https://github.com/sajag1999)
 
 
+## : Contributor
+[Akash Kumar](https://github.com/kmrakash)
 
 ## :eyes: License
 MIT © [Sajag Chauhan](https://github.com/sajag1999/Website-Blocker-Project/blob/master/LICENSE)
