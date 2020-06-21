@@ -70,7 +70,8 @@ Made with :&nbsp;  by [Sajag Chauhan](https://github.com/sajag1999)
 
 ## : Contributor
 [Akash Kumar](https://github.com/kmrakash)  
-[Swarnima Shukla](https://github.com/Swarnimashukla)
+[Swarnima Shukla](https://github.com/Swarnimashukla)  
+[Vishal Kichloo](https://github.com/kichloo)
 
 ## :eyes: License
 MIT © [Sajag Chauhan](https://github.com/sajag1999/Website-Blocker-Project/blob/master/LICENSE)
