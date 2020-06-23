@@ -41,6 +41,20 @@ In the present scenario Social media, shopping, videos, games...these apps and w
 If you need to focus on your work, break a habit, or simply improve your relationship with technology, Freedom can help. By blocking distracting websites and apps, you’ll be more focused and productive. You’ll develop healthier, more intentional digital habits, that give you control over your time and attention. 
 
 
+## :page_with_curl: Contribution Guidelines
+1. This program is for beginners to get started with open source. The only criterion for contribution are your dedication and enthusiasm to contribute to open source.
+2. First claim the issue you want to work on and start working on it, only after assigned by the project mentor/admin.
+3. Always add UI screenshot in case of a design related PR.
+4. Do not try to fix those issues already assigned to other contributors until assigned to you.
+5. Please refrain from commenting on the issues that are already assigned to any contributor!
+6. Refer to the issue that a PR solves, so that a PR can be related to an issue.
+7. Properly describe the changes made in a particular commit for better facilitation.
+8. More issues will be created  by the Project mentors/admins in the coming weeks so keep on checking the Projects that you would like to contribute!
+9. We request everyone in the Slack community to reply in thread only!
+10. Do not share any personal informations like Contact details, Personal Address,  Email IDs etc in public channels!
+11. We request everyone in the community to be kind & respectful as much as you can! Any abuse, hurtful words or wrong language will not be tolerated and the member will be removed immediately without prior warning.
+
+
 ## :key: Prerequisites
 
 All of the code is written in python only.you should know some basic concepts of python and some of web development.
