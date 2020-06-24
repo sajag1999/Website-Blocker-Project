@@ -83,8 +83,8 @@ Made with :&nbsp;  by [Sajag Chauhan](https://github.com/sajag1999)
 
 
 ## : Contributor
-[Akash Kumar](https://github.com/kmrakash)  
-[Sahil](https://github.com/imsahil007)
+[Akash Kumar](https://github.com/kmrakash)
+[Sahil](https://github.com/imsahil007)<br>
 [Swarnima Shukla](https://github.com/Swarnimashukla)  
 [Vishal Kichloo](https://github.com/kichloo)
 
