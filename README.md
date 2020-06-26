@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Website Blocker Application</h1>
 
 ## STUDENT CODE IN
@@ -57,10 +59,11 @@ If you need to focus on your work, break a habit or simply improve your relation
 
 ## :key: Prerequisites
 
-All of the code is written in Python only. You should know some basic concepts of Python and some of Web development.
-:file handling-file handling is used to do the modifications to the hosts file. 
-:time-The time module is used to control the frequency of the modifications to the hosts file.
-:datetime-The datetime module is used to keep track of the free time and working time.
+All of the code is written in Python only. You should know some basic concepts of Python and some of Web development.  
+-  file handling: file handling is used to do the modifications to the hosts file.  
+-  time: The time module is used to control the frequency of the modifications to the hosts file.  
+-  datetime: The datetime module is used to keep track of the free time and working time.
+
 
 ## :key: Results
 
@@ -78,13 +81,13 @@ Feel free to mail me for any doubts/query
 ## :handshake: Contribution
 Feel free to **file a new issue** with a respective title and description on the [Website Blocker Application](https://github.com/sajag1999/Website-Blocker-Project/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
 
-## : Owner
-Made with :&nbsp;  by [Sajag Chauhan](https://github.com/sajag1999)
+##  Owner
+Made by :&nbsp;  [Sajag Chauhan](https://github.com/sajag1999)
 
 
-## : Contributor
-[Akash Kumar](https://github.com/kmrakash)
-[Sahil](https://github.com/imsahil007)<br>
+## Contributors
+[Akash Kumar](https://github.com/kmrakash)  
+[Sahil](https://github.com/imsahil007)  
 [Swarnima Shukla](https://github.com/Swarnimashukla)  
 [Vishal Kichloo](https://github.com/kichloo)
 
