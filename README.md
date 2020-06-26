@@ -4,14 +4,14 @@
 
 ****About SCI****
 
-Student Code-in is a global program that helps students grow with “OPEN SOURCE”. It is a 2 months long Open-Source initiative which provides you the best platform to improve your skills and abilities by contributing to vast variety of OPEN SOURCE Projects. In this,all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team. 
+Student Code-In is a global program that helps students grow with “OPEN SOURCE”. It is a 2 month long Open-Source initiative which provides you the best platform to improve your skills and abilities by contributing to vast variety of OPEN SOURCE Projects. In this, all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team. 
 
 ![alt STUDENT CODE-IN LOGO](https://github.com/StudentCode-in/PsychHelp/blob/master/STUDENT%20CODE-IN.jpg)
 
 **Visit** https://scodein.tech/
 
 <div align= "center">
-  <h4>Website Blocker Application build with the help of python programming ,HTML,CSS,Js.Another wayy of making it attractive is Flutter.</h4>
+  <h4>Website Blocker Application build with the help of Python programming ,HTML,CSS,Js.Another way of making it attractive is Flutter.</h4>
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,7 +30,7 @@ Student Code-in is a global program that helps students grow with “OPEN SOURCE
 
 
 ## :innocent: Motivation
-In the present scenario Social media, shopping, videos, games...these apps and websites are scientifically engineered to keep you hooked and coming back. The cost to your productivity, ability to focus, and general well-being can be staggering. 
+In the present scenario social media, shopping, videos, games...these apps and websites are scientifically engineered to keep you hooked and coming back. The cost to your productivity, ability to focus and general well-being can be staggering. 
 
  
 ## :hourglass: Project Demo
@@ -38,7 +38,7 @@ In the present scenario Social media, shopping, videos, games...these apps and w
 
 
 ## :star: Features
-If you need to focus on your work, break a habit, or simply improve your relationship with technology, Freedom can help. By blocking distracting websites and apps, you’ll be more focused and productive. You’ll develop healthier, more intentional digital habits, that give you control over your time and attention. 
+If you need to focus on your work, break a habit or simply improve your relationship with technology, freedom can help. By blocking distracting websites and apps, you’ll be more focused and productive. You’ll develop healthier, more intentional digital habits, that give you control over your time and attention. 
 
 
 ## :page_with_curl: Contribution Guidelines
@@ -57,7 +57,7 @@ If you need to focus on your work, break a habit, or simply improve your relatio
 
 ## :key: Prerequisites
 
-All of the code is written in python only.you should know some basic concepts of python and some of web development.
+All of the code is written in Python only. You should know some basic concepts of Python and some of Web development.
 :file handling-file handling is used to do the modifications to the hosts file. 
 :time-The time module is used to control the frequency of the modifications to the hosts file.
 :datetime-The datetime module is used to keep track of the free time and working time.
@@ -76,7 +76,7 @@ Feel free to mail me for any doubts/query
 :email: sajagchauhan7@gmail.com
 
 ## :handshake: Contribution
-Feel free to **file a new issue** with a respective title and description on the the [Website Blocker Application](https://github.com/sajag1999/Website-Blocker-Project/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
+Feel free to **file a new issue** with a respective title and description on the [Website Blocker Application](https://github.com/sajag1999/Website-Blocker-Project/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
 
 ## : Owner
 Made with :&nbsp;  by [Sajag Chauhan](https://github.com/sajag1999)
