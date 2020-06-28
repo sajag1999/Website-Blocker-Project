@@ -84,11 +84,12 @@ Feel free to **file a new issue** with a respective title and description on the
 ##  Owner
 Made by :&nbsp;  [Sajag Chauhan](https://github.com/sajag1999)
 
+## Mentors 
+[Sahil](https://github.com/imsahil007)  
+[Swarnima Shukla](https://github.com/Swarnimashukla)  
 
 ## Contributors
 [Akash Kumar](https://github.com/kmrakash)  
-[Sahil](https://github.com/imsahil007)  
-[Swarnima Shukla](https://github.com/Swarnimashukla)  
 [Vishal Kichloo](https://github.com/kichloo)
 
 ## :eyes: License
