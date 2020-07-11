@@ -14,9 +14,9 @@ You hereby indemnify to the fullest extent COMPANY_NAME from and against any and
 * Severability  
 If any provision of these Terms is found to be invalid under any applicable law, such provisions shall be deleted without affecting the remaining provisions herein.
 
-*Variation of Terms  
+* Variation of Terms  
 COMPANY_NAME is permitted to revise these Terms at any time as it sees fit, and by using this Website you are expected to review these Terms on a regular basis.
 
-*Assignment  
+* Assignment  
 The COMPANY_NAME is allowed to assign, transfer, and subcontract its rights and/or obligations under these Terms without any notification. However, you are not allowed to assign, transfer, or subcontract any of your rights and/or obligations under these Terms.
 
